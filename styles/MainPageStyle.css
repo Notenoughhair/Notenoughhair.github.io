@@ -20,3 +20,20 @@ p
     margin-left:10%;
     margin-right: 10%;
 }
+
+header a
+{
+    font-size: 200%;
+
+}
+
+a 
+{
+text-decoration: none;
+color: black;
+}
+
+ a:hover
+{
+ color:rgb(23, 192, 77);
+}
