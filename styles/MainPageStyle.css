@@ -7,6 +7,15 @@ float: left;
     font-weight: bold;
 }
 
+    button {
+        background-color: rgb(226, 13, 226);
+      border: none;
+      height: 36px;
+      width: 110px;
+      border-radius: 30px;
+      cursor: pointer;
+      }
+
 header
 {
     display: flex;
@@ -36,4 +45,9 @@ color: black;
  a:hover
 {
  color:rgb(106,255, 0);
+}
+
+button:hover
+{
+    color: darkgoldenrod;
 }
