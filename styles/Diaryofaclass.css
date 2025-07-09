@@ -1,0 +1,22 @@
+
+.Carousel
+{
+    border-color: black;
+    border-style: dashed;
+  display: flex;
+  overflow-x: scroll;
+  height: 45vh;
+  width: 100%;
+gap: 3rem;
+  img {
+    object-fit: contain;
+    height: 100%;
+    width: 150%
+  }
+}
+
+button {
+        background-color: rgb(8, 219, 227);
+        color: azure;
+        border:none ;
+        }
